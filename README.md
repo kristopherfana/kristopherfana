@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kris! <br/><a href="https://github.com/kristopherfana">Full Stack Web Developer(Angular & Springboot)</a>
+<h1>Hi, I'm Kris! 📍<br/><a href="https://github.com/kristopherfana">Full Stack Web Developer(Angular & Springboot)</a>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
@@ -25,7 +25,7 @@
     - HTML
     - CSS
  
-<h2> 🤳 Connect with me:</h2>
+<h2>🔗Connect with me:</h2>
 
 [<img align="left" alt="kristopherfana | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="KristopherFana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
