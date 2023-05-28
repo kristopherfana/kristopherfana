@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Just Weather</b>
-  - Live Demo: http://justweather0.atwebpages.com/
+- <b>☀️Just Weather</b>
+  - 🔗Live Demo: http://justweather0.atwebpages.com/
   - Github Repo: https://github.com/kristopherfana/JustWeather
   - Description: c
   - Technologies:
@@ -14,8 +14,8 @@
     - OpenWeatherMap API
   
   
-- <b>Weatherly</b>
-  - Live Demo: http://justweather0.atwebpages.com/
+- <b>🌤️Weatherly</b>
+  - 🔗Live Demo: http://justweather0.atwebpages.com/
   - Github Repo: https://github.com/kristopherfana/Weatherly
   - Description: Weatherly is a weather website built using Angular for the frontend and Spring Boot for the backend, using the OpenWeatherMap API for weather data, is a modern and interactive web application that provides real-time weather information for locations around the world.
   - Technologies: 
